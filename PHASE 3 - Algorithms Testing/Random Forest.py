@@ -21,6 +21,7 @@ xtest=test.iloc[:,1:15]
 ytest=test['res']
 
 #Increasing depth yelds better results
+
 clf = RandomForestClassifier(n_estimators=100, max_depth=200, random_state=0)
 clf = clf.fit(xtrain, ytrain)
 ynew = clf.predict(xtest)
