@@ -15,11 +15,12 @@ https://analyse.kmi.open.ac.uk/open_dataset
 * Random Forest Classification
 * Logistic Regression
 * Gradient Boosted Machine
-* Classification and Regression Time
+* Classification and Regression Tree
 * Naive Bayes
 * K Means
 * Support Vector Classification 
 * Neural Network
+* AdaBoost Classifier
 
 
 
