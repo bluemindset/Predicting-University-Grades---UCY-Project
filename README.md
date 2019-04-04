@@ -1,4 +1,4 @@
-# UPDATE : REPORT ([https://docs.google.com/document/d/15JzDFUML0FtU2ZTMOTAh-ddkxtCUxJSrGY8yzgxSFgE/edit#])
+# UPDATE : [REPORT] (https://docs.google.com/document/d/15JzDFUML0FtU2ZTMOTAh-ddkxtCUxJSrGY8yzgxSFgE/edit#)
 # EPL 448 - Mining of Massive Datasets
 Project for EPL 448 - Mining of Massive Datasets - University of Cyprus 2018-2019
 
