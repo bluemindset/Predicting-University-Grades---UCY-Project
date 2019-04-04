@@ -27,5 +27,5 @@ https://analyse.kmi.open.ac.uk/open_dataset
 
 
 #### Contributors 
-##### Antonis Photiou & Stefanos Ioannou
+##### Antonis Photiou(aphoti01@ucy.ac.cy) & Stefanos Ioannou
 
