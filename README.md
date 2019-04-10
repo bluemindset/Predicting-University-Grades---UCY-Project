@@ -1,3 +1,4 @@
+# UPDATE : [REPORT](https://docs.google.com/document/d/15JzDFUML0FtU2ZTMOTAh-ddkxtCUxJSrGY8yzgxSFgE/edit#)
 # EPL 448 - Mining of Massive Datasets
 Project for EPL 448 - Mining of Massive Datasets - University of Cyprus 2018-2019
 
@@ -15,16 +16,17 @@ https://analyse.kmi.open.ac.uk/open_dataset
 * Random Forest Classification
 * Logistic Regression
 * Gradient Boosted Machine
-* Classification and Regression Time
+* Classification and Regression Tree
 * Naive Bayes
 * K Means
 * Support Vector Classification 
 * Neural Network
+* AdaBoost Classifier
 
 
 
 
 
 #### Contributors 
-##### Antonis Photiou & Stefanos Ioannou
+##### Antonis Photiou(aphoti01@ucy.ac.cy) & Stefanos Ioannou
 

@@ -1,0 +1,1 @@
+pred_prob=(gbc.fit(xtr,ytrain).predict_proba(xte)[:,1]>0.7).astype('int')
